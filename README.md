@@ -6,7 +6,7 @@
 [![maintainer](https://img.shields.io/badge/maintainer-nightcbis-blue.svg)](https://github.com/DSorlov)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-VMEAB Sophantering / Västervik Miljö & Energi Sophantering
+Boras EM Sophantering / Borås Miljö & Energi Sophantering
 ============================================
 
 En liten Intregration som hämtar hämtningar av sopor ifrån VMEAB
@@ -15,3 +15,5 @@ En liten Intregration som hämtar hämtningar av sopor ifrån VMEAB
 * Använd normala HACS rutinen.
 * Lägg till integrationen "VMEAB sophämtning"
 * Fyll i Gatuaddress och Stad
+
+## En fork utav https://github.com/nightcbis/vmeab
